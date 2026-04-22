@@ -41,11 +41,11 @@ Então devo ver informações da criptomoeda selecionada
 
 Relatório de Grupo
 
-Marcos Saulo: Fez a primeira e segunda página e a conexão API
+Marcos Saulo: Fez a primeira e segunda página e a conexão API + apresentação
 
-Monique: Fez a parte HTML e os testes cypress
+Monique: Fez a parte HTML e os testes cypress + apresentação
 
-Alessandra: Fez e elaborou os slides 
+Alessandra: Fez e elaborou os slides e apresentou
 
 André Luiz: apresentou
 
